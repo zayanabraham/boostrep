@@ -1,0 +1,182 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+header{
+    background-color: #87509c;
+}
+section{
+    padding: 75px;
+}
+.underline{
+    width: 5%;
+    margin:  20px auto; 
+    border-top: 5px solid rgba(0, 0, 0, 0.342);
+}
+nav ul li a{
+  
+    padding: 5px;
+    margin: 0px 5px;
+}
+nav ul li a:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+.cstn-btn{
+    background-color: rgba(255, 68, 0, 0.555);
+}
+.hero-part{
+    padding: 100px 150px; 
+}
+#service{
+    background-color: #17c2a4;
+    text-align: center;
+    color: #fff;
+}
+.box-part{
+    padding: 30px 0px;
+}
+.box-part h3{
+    padding: 20px 0px 
+}
+.box-part p{
+    padding: 20px 0px;
+}    
+.lteam img{
+    margin: 20px 0px;
+    height: 150px ;
+    width: 150px;
+}
+#team i{
+    background-color: #bdd1df;
+    color: white;
+    padding: 10px;
+    border-radius: 100px;
+    width: 40px;
+
+}
+#team i:hover{
+    background-color: wheat;
+    color: black;
+}
+.wteam{
+    padding: 20px 0px;
+}
+#skill{
+    background-color: #e7f1f8;
+}
+.lskill-1{
+    margin: 30px 0px;
+}
+#portfolio{
+    background-color: #ffdd99;
+}
+.portfolio-btn button{
+    background-color: #ebc985;
+    margin: 10px 2px;
+}
+.portfolio-btn button:hover{
+    background-color: white;
+}
+.l-port{
+    margin: 30px 0px;
+}
+.l-port img{
+   margin:20px 0px ; 
+}
+.l-port button{
+    background-color: #17c2a4;
+
+}
+#about{
+    background-color: #d74680;
+}
+.box-about img{
+    height: 150px ;
+    width: 150px;
+}
+.box-about img{
+    margin: 30px 0px;
+}
+.pic-deg{
+    padding: 30px 0px;
+}
+.pp{
+    color: #ffdd99;
+}
+#contect{
+    background-color: #3c5499;
+}
+.form1{
+    
+    margin: 20px 0px;
+   
+   }
+   .form1 input{
+    border: none;
+    border-radius: 5px;
+      width: 98%;
+       background-color: #273a71;
+       padding: 10px;
+   }
+   .form2{
+       margin: 20px 0px;
+   
+   }
+   .form2 input{
+    border-radius: 5px;
+    border: none;
+       width: 98%;
+       background-color: #273a71;
+       padding: 10px;
+   
+   }
+   textarea{
+    border-radius: 5px;
+    border: none;
+       width: 99%;
+       background-color: #273a71;
+   }
+   input::placeholder{
+       color: white;
+   }
+   textarea::placeholder{
+       color: white;
+       padding-left: 10px;
+       padding-top: 10px;
+   }
+  .sub{
+    border-radius: 5px;
+    border: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 10px 30px;
+   margin-left: 45%;
+   margin-top: 20px;
+   background-color: #30bae7;
+  }
+  footer{
+    background-color: #344b8e;
+}
+footer ul{
+    text-align: center;
+    padding: 0px 30px ;
+   
+}
+footer li{
+    
+    display: inline-block;
+    margin: 40px 0px;
+    padding: 0px 30px;
+    text-align: center;
+    color: white;
+    font-size: 17px;
+    line-height: 17px;
+    font-weight: 600;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+footer a:hover{
+    color: #30bae7;
+}
